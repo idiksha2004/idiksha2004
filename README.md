@@ -1,3 +1,4 @@
+![logo](https://github.com/idiksha2004/idiksha2004/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Diksha</h1>
 <h3 align="center">💡 Design-driven developer focused on intuitive, user-first web experiences</h3>
 

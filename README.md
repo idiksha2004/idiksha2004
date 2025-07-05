@@ -90,6 +90,4 @@
   </tr>
 </table>
 </div>
-<p align="center">
-  <small><em>README designed with a modern Bento Grid UI by Gemini ✨</em></small>
-</p>
+

@@ -80,7 +80,7 @@
   </tr>
    <tr>
     <td colspan="2" valign="top">
-       <h3 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXN0a2lqMGRhcDRqYnp6dWd0dGNseHo4dDUwbTNucGpxY3l6aW5pZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9J7tdYltzKiE9e64nb/giphy.gif" width="25"> My GitHub Story</h3>
+      
        <p align="center">
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=idiksha2004&theme=tokyonight&hide_border=true" alt="Diksha's GitHub Streak"/>
           <br><br>

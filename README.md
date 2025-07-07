@@ -86,10 +86,11 @@
     <p align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=idiksha2004&theme=tokyonight&hide_border=true" alt="Diksha's GitHub Streak"/>
       <br><br>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=idiksha2004&theme=react-dark&hide_border=true&area=true&color=9b59b6&line=9b59b6&point=ffffff" alt="Diksha's Contribution Graph" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=idiksha2004&theme=github-compact&hide_border=true&area=true&area_color=7957d5&color=9e5de8&line=9e5de8&point=ffffff" alt="Diksha's Contribution Graph" />
     </p>
   </td>
 </tr>
+
 
 </table>
 </div>

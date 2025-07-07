@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://github.com/idiksha2004">
-    <img src="https://github.com/idiksha2004/idiksha2004/blob/main/github-header-image.png" alt="Hi, I'm Diksha - Design-driven developer">
-  </a>
-</div>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">

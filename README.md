@@ -65,29 +65,4 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> GitHub Stats</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=idiksha2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Diksha's GitHub Stats"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><img src="https://media.giphy.com/media/l0HlNaQ6gWfllZvS8/giphy.gif" width="25"> Top Languages</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idiksha2004&layout=compact&theme=tokyonight&hide_border=true" alt="Diksha's Top Languages"/>
-      </p>
-    </td>
-  </tr>
-   <tr>
-    <td colspan="2" valign="top">
-       <h3 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXN0a2lqMGRhcDRqYnp6dWd0dGNseHo4dDUwbTNucGpxY3l6aW5pZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9J7tdYltzKiE9e64nb/giphy.gif" width="25"> My GitHub Story</h3>
-       <p align="center">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=idiksha2004&theme=tokyonight&hide_border=true" alt="Diksha's GitHub Streak"/>
-          <br><br>
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=idiksha2004&theme=tokyonight&hide_border=true&hide_title=false&line=ffffff&point=ffffff&area=true&area_color=7957d5" alt="Diksha's Contribution Graph" />
-       </p>
-    </td>
-  </tr>
-</table>
-</div>
-
+   

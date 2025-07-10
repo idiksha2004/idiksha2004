@@ -3,6 +3,10 @@
     <img src="https://github.com/idiksha2004/idiksha2004/blob/main/github-header-image.png" alt="Hi, I'm Diksha - Design-driven developer">
   </a>
 </div>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=idiksha2004.idiksha2004" alt="Profile Views" />
+</p>
+
 
  <div align="center">
   <a href="https://git.io/typing-svg">

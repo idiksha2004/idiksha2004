@@ -12,7 +12,7 @@
 
 <br>
 
-
+<table>
   <tr>
     <td width="65%" valign="top">
       <h3>Hey there! I'm Diksha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>

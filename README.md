@@ -91,10 +91,3 @@
   </td>
 </tr>
 
-
-</table>
-</div>
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=idiksha2004.idiksha2004" alt="Profile Views" />
-</p>
-

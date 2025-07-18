@@ -65,12 +65,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> GitHub Stats</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=idiksha2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Diksha's GitHub Stats"/>
-      </p>
-    </td>
+    
     <td width="50%" valign="top">
       <h3 align="center"><img src="https://media.giphy.com/media/l0HlNaQ6gWfllZvS8/giphy.gif" width="25"> Top Languages</h3>
       <p align="center">
